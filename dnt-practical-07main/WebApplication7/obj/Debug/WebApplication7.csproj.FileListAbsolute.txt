@@ -1,0 +1,4 @@
+D:\DotNet\WebApplication7\WebApplication7\bin\WebApplication7.dll
+D:\DotNet\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+D:\DotNet\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+D:\DotNet\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
